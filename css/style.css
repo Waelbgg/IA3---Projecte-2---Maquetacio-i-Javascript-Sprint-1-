@@ -1,0 +1,8 @@
+.logo {
+    color: #064c91;
+    font-family: Arial, sans-serif;
+}
+
+.logo::first-letter {
+    color: #1673d1;
+}
