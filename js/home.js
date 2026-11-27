@@ -1,0 +1,1 @@
+console.log('my Dream Place - Script inicializado');
